@@ -1,0 +1,30 @@
+﻿<views:MvxWpfView 
+    xmlns:views="clr-namespace:MvvmCross.Platforms.Wpf.Views;assembly=MvvmCross.Platforms.Wpf"
+    xmlns:mvx="clr-namespace:MvvmCross.Platforms.Wpf.Binding;assembly=MvvmCross.Platforms.Wpf"
+    x:Class="MvxFotosRadar.Wpf.Views.FotosRadarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MvxFotosRadar.Wpf.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Image Source="/Views/logo_color_aj_alella_horitzontal.jpg" Width="300"></Image>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 50 0 0">
+                <TextBlock Text="Sel·leccioni la carpeta amb les imatges a procesar" Margin="0 0 10 0"></TextBlock>
+                <Button x:Name="btnOpenFileDialog" Click="btnOpenFileDialog_Click" >
+                    <TextBlock Text="Examinar"></TextBlock>
+                </Button>
+            </StackPanel>
+            <TextBlock x:Name="tbRutaSeleccionada" Text="{Binding RutaImatges, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBlock>
+            <DataGrid ItemsSource="{Binding Fotos}" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" Height="300" Margin="10"></DataGrid>
+            <Button x:Name="btnProcesar" mvx:Bi.nd="Command ProcessarImatgesCommand" Margin="100,10,100,10">
+                <TextBlock Text="Processar Imatges i crear el arxiu index.txt"></TextBlock>
+            </Button>
+            <ProgressBar  x:Name="Contador" Value="{Binding Contador}" Maximum="{Binding TotalImatges}" Minimum="0" Height="10" Width="200" Visibility="{Binding PBVisible}" IsIndeterminate="{Binding PBIndeterminate}"/>
+            <TextBlock Text="FET!" HorizontalAlignment="Center" Foreground="Green" FontWeight="Bold" Visibility="{Binding MissatgeFet}"></TextBlock>
+        </StackPanel>
+    </Grid>
+</views:MvxWpfView>

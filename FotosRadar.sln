@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvxFotosRadar.Core", "MvxFotosRadar.Core\MvxFotosRadar.Core.csproj", "{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvxFotosRadar.Wpf", "MvxFotosRadar.Wpf\MvxFotosRadar.Wpf.csproj", "{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Debug|x86.ActiveCfg = Debug|x86
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Debug|x86.Build.0 = Debug|x86
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Release|x86.ActiveCfg = Release|x86
+		{85C3E473-1A7C-4F5F-A9B8-2603B27DF710}.Release|x86.Build.0 = Release|x86
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Debug|x86.ActiveCfg = Debug|x86
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Debug|x86.Build.0 = Debug|x86
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Release|x86.ActiveCfg = Release|x86
+		{9A7E2ACD-9B79-493E-8B5F-9896AB254E0D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D30B35EA-0797-4D89-93A1-9E92B97C7840}
+	EndGlobalSection
+EndGlobal

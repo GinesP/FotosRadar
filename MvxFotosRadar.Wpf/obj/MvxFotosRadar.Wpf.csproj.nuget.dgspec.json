@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+        "projectName": "MvxFotosRadar.Core",
+        "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+        "packagesPath": "C:\\Users\\Gines\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gines\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
+        "projectName": "MvxFotosRadar.Wpf",
+        "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
+        "packagesPath": "C:\\Users\\Gines\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gines\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj": {
+                "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MetadataExtractor": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "MvvmCross.Platforms.Wpf": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

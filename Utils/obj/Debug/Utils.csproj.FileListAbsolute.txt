@@ -1,0 +1,2 @@
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\bin\Release\netstandard2.0\exiftool(-k).exe
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\bin\Release\netstandard2.0\MvxFotosRadar.Core.deps.json
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\bin\Release\netstandard2.0\MvxFotosRadar.Core.dll
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\bin\Release\netstandard2.0\MvxFotosRadar.Core.pdb
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\Release\netstandard2.0\MvxFotosRadar.Core.AssemblyInfoInputs.cache
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\Release\netstandard2.0\MvxFotosRadar.Core.AssemblyInfo.cs
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\Release\netstandard2.0\MvxFotosRadar.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\Release\netstandard2.0\MvxFotosRadar.Core.dll
+C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\Release\netstandard2.0\MvxFotosRadar.Core.pdb
