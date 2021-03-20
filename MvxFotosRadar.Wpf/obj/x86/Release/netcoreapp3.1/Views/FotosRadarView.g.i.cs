@@ -87,7 +87,7 @@ namespace MvxFotosRadar.Wpf.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MvxFotosRadar.Wpf;component/views/fotosradarview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MvxFotosRadar.Wpf;V1.0.0.0;component/views/fotosradarview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\FotosRadarView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
