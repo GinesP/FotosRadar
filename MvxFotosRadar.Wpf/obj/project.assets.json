@@ -443,26 +443,23 @@
   },
   "packageFolders": {
     "C:\\Users\\Gines\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
+      "projectUniqueName": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
       "projectName": "MvxFotosRadar.Wpf",
-      "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
+      "projectPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
       "packagesPath": "C:\\Users\\Gines\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\obj\\",
+      "outputPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Gines\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -473,9 +470,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj": {
-              "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj"
+            "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj": {
+              "projectPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj"
             }
           }
         }
@@ -488,6 +486,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MetadataExtractor": {
             "target": "Package",
@@ -524,7 +523,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

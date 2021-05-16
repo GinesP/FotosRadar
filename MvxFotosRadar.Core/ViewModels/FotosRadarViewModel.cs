@@ -229,15 +229,20 @@ namespace MvxFotosRadar.Core.ViewModels
 
                     foreach (FotoModel foto in Fotos)
                     {
+                        try
+                        {
+                            linea = foto.Client + foto.Expedient + foto.Arxiu_foto;
+                            outputFile.WriteLine(linea);
+                            d = extw.FetchExifFrom(_rutaImatges + "\\" + foto.Arxiu_foto);
+                            d.TryGetValue("Comment", out result);
+                            metadades = result.Split(separationString, System.StringSplitOptions.RemoveEmptyEntries);
 
-                        linea = foto.Client + foto.Expedient + foto.Arxiu_foto;
-                        outputFile.WriteLine(linea);
-                        d = extw.FetchExifFrom(_rutaImatges + "\\" + foto.Arxiu_foto);
-                        d.TryGetValue("Comment", out result);
-                        metadades = result.Split(separationString, System.StringSplitOptions.RemoveEmptyEntries);
-
-                        Utils.EscriureText(metadades, _rutaImatges + "\\" + foto.Arxiu_foto, foto.Arxiu_foto);
-                        Contador++;
+                            Utils.EscriureText(metadades, _rutaImatges + "\\" + foto.Arxiu_foto, foto.Arxiu_foto);
+                            Contador++;
+                        } catch(Exception ex)
+                        {
+                            continue;
+                        }
 
                     }
                 }

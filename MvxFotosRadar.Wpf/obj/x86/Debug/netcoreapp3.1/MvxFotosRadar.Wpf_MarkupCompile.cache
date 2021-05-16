@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Wpf\obj\x86\Debug\netcoreapp3.1\
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Wpf\obj\x86\Debug\netcoreapp3.1\
 MvxFotosRadar.Wpf
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Wpf\App.xaml
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Wpf\App.xaml
 2-1867632114
 
 4-477716571
-199400553244
+199-974445050
 MainWindow.xaml;Views\FotosRadarView.xaml;
 
 False

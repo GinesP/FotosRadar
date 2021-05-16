@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LrFgaPZZycTYYIt4Iqx5vCgVoKFHs5SIflIfqzfqaPs46nh95B9OkUzQFqDP/cWAcpDFe7dxcJ9syereUpLzzw==",
+  "dgSpecHash": "ull3BYinqAH5JL75rsdh6sy866zd6hJD2g/PdyVR69DA0rY27+KMqN/aGPELnBeji2/JVjFPeOnh39Hdlt4MSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
+  "projectFilePath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Wpf\\MvxFotosRadar.Wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gines\\.nuget\\packages\\metadataextractor\\2.4.3\\metadataextractor.2.4.3.nupkg.sha512",
     "C:\\Users\\Gines\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

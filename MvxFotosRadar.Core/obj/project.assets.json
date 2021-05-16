@@ -497,26 +497,23 @@
   },
   "packageFolders": {
     "C:\\Users\\Gines\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
       "projectName": "MvxFotosRadar.Core",
-      "projectPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+      "projectPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
       "packagesPath": "C:\\Users\\Gines\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gines\\Documents\\MEGAsync\\FotosRadar\\FotosRadar\\MvxFotosRadar.Core\\obj\\",
+      "outputPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Gines\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -527,6 +524,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -538,6 +536,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "MvvmCross": {
             "target": "Package",
@@ -568,7 +567,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

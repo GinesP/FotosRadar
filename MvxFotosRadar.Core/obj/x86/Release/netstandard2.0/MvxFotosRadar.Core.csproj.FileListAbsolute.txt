@@ -8,3 +8,13 @@ C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\x
 C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.csproj.CoreCompileInputs.cache
 C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.dll
 C:\Users\Gines\Documents\MEGAsync\FotosRadar\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.pdb
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\bin\x86\Release\netstandard2.0\exiftool(-k).exe
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\bin\x86\Release\netstandard2.0\MvxFotosRadar.Core.deps.json
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\bin\x86\Release\netstandard2.0\MvxFotosRadar.Core.dll
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\bin\x86\Release\netstandard2.0\MvxFotosRadar.Core.pdb
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.csprojAssemblyReference.cache
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.AssemblyInfoInputs.cache
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.AssemblyInfo.cs
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.dll
+C:\Users\Gines\Desktop\radarApp\FotosRadar\MvxFotosRadar.Core\obj\x86\Release\netstandard2.0\MvxFotosRadar.Core.pdb
