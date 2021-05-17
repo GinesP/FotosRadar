@@ -502,11 +502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Gines\\Desktop\\AppFotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
       "projectName": "MvxFotosRadar.Core",
-      "projectPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
+      "projectPath": "C:\\Users\\Gines\\Desktop\\AppFotosRadar\\FotosRadar\\MvxFotosRadar.Core\\MvxFotosRadar.Core.csproj",
       "packagesPath": "C:\\Users\\Gines\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gines\\Desktop\\radarApp\\FotosRadar\\MvxFotosRadar.Core\\obj\\",
+      "outputPath": "C:\\Users\\Gines\\Desktop\\AppFotosRadar\\FotosRadar\\MvxFotosRadar.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

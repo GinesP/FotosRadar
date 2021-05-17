@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MvxFotosRadar.Wpf/1.0.0": {
+      "FotosRadar/1.0.0": {
         "dependencies": {
           "MetadataExtractor": "2.4.3",
           "MvvmCross.Platforms.Wpf": "7.1.2",
@@ -15,7 +15,7 @@
           "System.Drawing.Common": "5.0.2"
         },
         "runtime": {
-          "MvxFotosRadar.Wpf.dll": {}
+          "FotosRadar.dll": {}
         }
       },
       "MetadataExtractor/2.4.3": {
@@ -130,7 +130,7 @@
     }
   },
   "libraries": {
-    "MvxFotosRadar.Wpf/1.0.0": {
+    "FotosRadar/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

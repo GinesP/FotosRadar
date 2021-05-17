@@ -1,19 +1,19 @@
-﻿MvxFotosRadar.Wpf
+﻿FotosRadar
 1.0.0.1
 
 winexe
 C#
 .cs
-C:\Users\Gines\Desktop\AppFotosRadar\FotosRadar\MvxFotosRadar.Wpf\obj\x86\Debug\netcoreapp3.1\
+C:\Users\Gines\Desktop\AppFotosRadar\FotosRadar\MvxFotosRadar.Wpf\obj\x86\Release\netcoreapp3.1\
 MvxFotosRadar.Wpf
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Gines\Desktop\AppFotosRadar\FotosRadar\MvxFotosRadar.Wpf\App.xaml
 2-1867632114
 
-6162115272
-199235561667
+4-477716571
+199-2089888090
 MainWindow.xaml;Views\FotosRadarView.xaml;
 
 False

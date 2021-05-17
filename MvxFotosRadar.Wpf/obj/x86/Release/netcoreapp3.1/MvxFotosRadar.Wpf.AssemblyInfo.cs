@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MvxFotosRadar.Wpf")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FotosRadar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MvxFotosRadar.Wpf")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MvxFotosRadar.Wpf")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("FotosRadar")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FotosRadar")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

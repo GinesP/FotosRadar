@@ -78,10 +78,12 @@ namespace MvxFotosRadar.Core
                 //TODO: MeasureString
 
                 SizeF stringSize = new SizeF();
+                SizeF stringSize2 = new SizeF();
 
-                using(Graphics gr = Graphics.FromHwnd(IntPtr.Zero))
+                using (Graphics gr = Graphics.FromHwnd(IntPtr.Zero))
                 {
                     stringSize = gr.MeasureString(localitzacio, myFont);
+                    stringSize2 = gr.MeasureString(laserSN, myFont);
                 }
                 
 
@@ -92,7 +94,7 @@ namespace MvxFotosRadar.Core
                 g.DrawString(data, myFont, Brushes.Black, new Point(75, 15), format);
                 g.DrawString(hora, myFont, Brushes.Black, new Point(190, 15), format);
                 g.DrawString(operatorID, myFont, Brushes.Black, new Point(500, 15), format);
-                g.DrawString(laserSN, myFont, Brushes.Black, new Point(Convert.ToInt32(ample / 1.42), 15), format);
+                g.DrawString(laserSN, myFont, Brushes.Black, new Point((Convert.ToInt32(ample - stringSize2.Width)), 15), format2);
 
 
                 g.DrawString(limit+" "+velocitatUnitats, myFont, Brushes.Black, new Point(75, alt-15), format);
